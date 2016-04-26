@@ -1,4 +1,4 @@
-# JavaCypher
+# Java Cypher 2nd year project
 ##By Martin Coleman 
 
 
